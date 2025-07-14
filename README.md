@@ -26,7 +26,7 @@ Gra wisielec z interfejsem terminalowym, napisana w Pythonie. Program losuje sł
 
 1. **Sklonuj repozytorium**:
    ```bash
-   git clone https://github.com/STBash/Wisielec.git
+   git clone https://github.com/steedware/Wisielec.git
    cd Wisielec
 
 2. **Uruchom gre**:
